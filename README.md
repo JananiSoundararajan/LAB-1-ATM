@@ -19,7 +19,7 @@ to withdraw money,deposit.
 ![ACTIVITY DIAGRAM](https://github.com/JananiSoundararajan/LAB-1-ATM/assets/119477549/ad70e9ac-f31e-4962-be50-4330309e1f00)
 #### COMMUNICATION DIAGRAM:
 ![CDATM](https://github.com/JananiSoundararajan/LAB-1-ATM/assets/119477549/03fb319b-170d-4cf0-876d-76408f6e1e4c)
-
-
+#### PACKAGE DIAGRAM:
+![274488505-de9fa7ce-f4bb-4b66-88d2-b68ee129f56e](https://github.com/JananiSoundararajan/LAB-1-ATM/assets/119477549/b10d7722-8ddc-416c-a277-ec46faca6d75)
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
